@@ -30,3 +30,4 @@ C:\Users\K416_03\Documents\Проект по умолчанию\RadioServer\obj\
 C:\Users\K416_03\Documents\Проект по умолчанию\RadioServer\obj\Release\net10.0\compressed\eqaio8d763-{0}-oqzhv4fjfg-oqzhv4fjfg.gz
 C:\Users\K416_03\Documents\Проект по умолчанию\RadioServer\obj\Release\net10.0\compressed\lo34dpobps-{0}-0ohgleakfq-0ohgleakfq.gz
 C:\Users\K416_03\Documents\Проект по умолчанию\RadioServer\obj\Release\net10.0\compressed\38i65cxpom-{0}-rtkritq3ec-rtkritq3ec.gz
+C:\Users\K416_03\Documents\Проект по умолчанию\RadioServer\obj\Release\net10.0\RadioServer.sourcelink.json

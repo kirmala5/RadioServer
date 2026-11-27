@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RadioServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+916a94f29ca1112ad06bc060907fa1a729b67772")]
 [assembly: System.Reflection.AssemblyProductAttribute("RadioServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RadioServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
